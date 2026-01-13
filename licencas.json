@@ -40,16 +40,23 @@
     "senhaUsada": "TRBCRWD6"
   },
   "8317167C8155EF34": {
-    "tipo": "T",
+    "tipo": "V",
     "ativo": true,
-    "nome": "irineu",
-    "telefone": "(88) 99999-9999",
-    "documento": "719.896.923-20",
-    "email": "irineu.igt@gmail.com",
-    "dataAtivacao": "2026-01-13",
-    "ultimoPagamento": "2026-01-13",
-    "dataVencimento": "2026-01-20",
-    "senhasVitalicias": null,
-    "senhaUsada": null
+    "nome": "Braulio Amorim",
+    "telefone": "(88) 98847-7690",
+    "documento": "035.389.293-94",
+    "email": "braulio@proservitec.com.br",
+    "dataAtivacao": "2026-01-12",
+    "ultimoPagamento": "2026-01-12 10:35:04",
+    "dataVencimento": "",
+    "senhasVitalicias": [
+      "DYPDN8VR",
+      "CSLNK5TS",
+      "848XD5WJ",
+      "GGG335T5",
+      "QXMGR6FT",
+      "TRBCRWD6"
+    ],
+    "senhaUsada": "848XD5WJ"
   }
 }
