@@ -19,26 +19,6 @@
     ],
     "senhaUsada": "DYPDN8VR"
   },
-  "20D7B7756D647FF9": {
-    "tipo": "V",
-    "ativo": true,
-    "nome": "Heitor GamePlays",
-    "telefone": "(88) 99868-5336",
-    "documento": "070.060.373-52",
-    "email": "limaheitor508@gmail.com",
-    "dataAtivacao": "2026-01-12",
-    "ultimoPagamento": "2026-01-12 10:35:04",
-    "dataVencimento": "",
-    "senhasVitalicias": [
-      "DYPDN8VR",
-      "CSLNK5TS",
-      "848XD5WJ",
-      "GGG335T5",
-      "QXMGR6FT",
-      "TRBCRWD6"
-    ],
-    "senhaUsada": "TRBCRWD6"
-  },
   "8317167C8155EF34": {
     "tipo": "V",
     "ativo": true,
@@ -59,4 +39,5 @@
     ],
     "senhaUsada": "848XD5WJ"
   }
+
 }
