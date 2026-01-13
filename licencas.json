@@ -38,5 +38,18 @@
       "TRBCRWD6"
     ],
     "senhaUsada": "TRBCRWD6"
+  },
+  "8317167C8155EF34": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "irineu",
+    "telefone": "(88) 99999-9999",
+    "documento": "719.896.923-20",
+    "email": "irineu.igt@gmail.com",
+    "dataAtivacao": "2026-01-13",
+    "ultimoPagamento": "2026-01-13",
+    "dataVencimento": "2026-01-20",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
