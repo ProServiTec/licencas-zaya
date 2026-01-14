@@ -1,4 +1,15 @@
 {
-  
+  "8317167C8155EF34": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "jubileu",
+    "telefone": "(88) 91919-1991",
+    "documento": "455.252.943-97",
+    "email": "jubileu@gmail.com",
+    "dataAtivacao": "2026-01-14",
+    "ultimoPagamento": "2026-01-14",
+    "dataVencimento": "2026-01-21",
+    "senhasVitalicias": null,
+    "senhaUsada": null
+  }
 }
-
