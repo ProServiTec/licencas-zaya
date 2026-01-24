@@ -24,6 +24,18 @@
     "dataVencimento": "2026-01-31",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "3C9CC61D93CF5C6C": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "aparece tecnologia",
+    "telefone": "(11) 97851-6634",
+    "documento": "44.055.045/0001-39",
+    "email": "rafaelcatarina1@gmail.com",
+    "dataAtivacao": "2026-01-24",
+    "ultimoPagamento": "2026-01-24",
+    "dataVencimento": "2026-01-31",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
-
 }
