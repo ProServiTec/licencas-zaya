@@ -24,18 +24,6 @@
     "dataVencimento": "2026-01-31",
     "senhasVitalicias": null,
     "senhaUsada": null
-  },
-  "20D7B7756D647FF9": {
-    "tipo": "T",
-    "ativo": true,
-    "nome": "Heitor",
-    "telefone": "(88) 99868-5336",
-    "documento": "070.060.373-52",
-    "email": "limaheitor508@gmail.com",
-    "dataAtivacao": "2026-01-24",
-    "ultimoPagamento": "2026-01-24",
-    "dataVencimento": "2026-01-31",
-    "senhasVitalicias": null,
-    "senhaUsada": null
   }
+
 }
