@@ -11,5 +11,18 @@
     "dataVencimento": "2026-01-21",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "96F044A408132296": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Aparece Sistemas",
+    "telefone": "(11) 96124-6143",
+    "documento": "36.704.839/0001-58",
+    "email": "aparecesistemas@gmail.com",
+    "dataAtivacao": "2026-01-24",
+    "ultimoPagamento": "2026-01-24",
+    "dataVencimento": "2026-01-31",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
