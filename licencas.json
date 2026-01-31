@@ -37,5 +37,18 @@
     "dataVencimento": "2026-01-31",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "46C0C767282DD469": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Cris Burguer",
+    "telefone": "(11) 46658-9972",
+    "documento": "40.500.677/0001-03",
+    "email": "apareceaqui001@gmail.com",
+    "dataAtivacao": "2026-01-31",
+    "ultimoPagamento": "2026-01-31",
+    "dataVencimento": "2026-02-07",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
