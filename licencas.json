@@ -63,5 +63,18 @@
     "dataVencimento": "2026-03-16",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "CA4EA98ED7670299": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "TECNO SERVICE INFORM\u00C1TICA",
+    "telefone": "(54) 99612-7562",
+    "documento": "04.667.205/0001-86",
+    "email": "suportetsicanela@gmail.com",
+    "dataAtivacao": "2026-03-09",
+    "ultimoPagamento": "2026-03-09",
+    "dataVencimento": "2026-03-16",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
