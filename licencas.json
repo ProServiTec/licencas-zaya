@@ -76,5 +76,18 @@
     "dataVencimento": "2026-03-16",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "1F3A438917683EF8": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Aparece Sistemas",
+    "telefone": "(11) 78516-6934",
+    "documento": "04.605.781/0001-07",
+    "email": "aparecesistemas@gmail.com",
+    "dataAtivacao": "2026-03-16",
+    "ultimoPagamento": "2026-03-16",
+    "dataVencimento": "2026-03-23",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
