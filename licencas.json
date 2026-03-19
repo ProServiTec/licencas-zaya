@@ -102,5 +102,18 @@
     "dataVencimento": "2026-03-26",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "918FFCFEA3434894": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Caetano",
+    "telefone": "(51) 99566-9724",
+    "documento": "020.179.790-90",
+    "email": "evaldtluciano613@gmail.com",
+    "dataAtivacao": "2026-03-19",
+    "ultimoPagamento": "2026-03-19",
+    "dataVencimento": "2026-03-26",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
