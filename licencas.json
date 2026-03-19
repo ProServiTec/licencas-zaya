@@ -89,5 +89,18 @@
     "dataVencimento": "2026-03-23",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "8AA6BC0C13301613": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Luciano",
+    "telefone": "",
+    "documento": "496.045.320-65",
+    "email": "",
+    "dataAtivacao": "2026-03-19",
+    "ultimoPagamento": "2026-03-19",
+    "dataVencimento": "2026-03-26",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
