@@ -128,5 +128,18 @@
     "dataVencimento": "2026-03-28",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "270F2A08CA255D15": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Piazzaria Paulista ",
+    "telefone": "(88) 98133-2026",
+    "documento": "034.640.213-19",
+    "email": "pizzariapaulista624@gmail.com",
+    "dataAtivacao": "2026-03-23",
+    "ultimoPagamento": "2026-03-23",
+    "dataVencimento": "2026-03-30",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
