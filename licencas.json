@@ -141,5 +141,18 @@
     "dataVencimento": "2026-03-30",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "83F3FB38E20F5AAC": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Tempeiro Caseiro",
+    "telefone": "(88) 8847-7690",
+    "documento": "47.841.933/0001-75",
+    "email": "suporte\u002Btempeiro@proservitec.com.br",
+    "dataAtivacao": "2026-04-24",
+    "ultimoPagamento": "2026-04-24",
+    "dataVencimento": "2026-05-01",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
