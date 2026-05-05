@@ -118,7 +118,7 @@
   },
   "0FC28FD447E227F7": {
     "tipo": "T",
-    "ativo": false,
+    "ativo": true,
     "nome": "Ponto Certo IV",
     "telefone": "",
     "documento": "379.283.268-25",
