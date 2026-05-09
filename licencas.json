@@ -154,5 +154,18 @@
     "dataVencimento": "2026-05-24",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "427C5101DA75FBD3": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "vitor",
+    "telefone": "(88) 98622-4951",
+    "documento": "064.572.393-23",
+    "email": "luizvitorfc05@gmail.com",
+    "dataAtivacao": "2026-05-09",
+    "ultimoPagamento": "2026-05-09",
+    "dataVencimento": "2026-05-16",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
