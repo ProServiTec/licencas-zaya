@@ -167,5 +167,18 @@
     "dataVencimento": "2026-05-16",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "CD2222E61DE2AE0B": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Chama Na Batata",
+    "telefone": "(11) 92147-6256",
+    "documento": "43.948.886/0001-02",
+    "email": "cristiano0489@gmail.com",
+    "dataAtivacao": "2026-05-18",
+    "ultimoPagamento": "2026-05-18",
+    "dataVencimento": "2026-05-25",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
