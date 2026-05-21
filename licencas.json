@@ -180,18 +180,5 @@
     "dataVencimento": "2026-05-25",
     "senhasVitalicias": null,
     "senhaUsada": null
-  },
-  "CD35D5CF4C939CA6": {
-    "tipo": "T",
-    "ativo": true,
-    "nome": "Jefferson",
-    "telefone": "(88) 99771-9820",
-    "documento": "054.007.633-32",
-    "email": "jeffersonnexus4.js@gmail.com",
-    "dataAtivacao": "2026-05-21",
-    "ultimoPagamento": "2026-05-21",
-    "dataVencimento": "2026-05-28",
-    "senhasVitalicias": null,
-    "senhaUsada": null
   }
 }
