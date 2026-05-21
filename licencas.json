@@ -180,5 +180,25 @@
     "dataVencimento": "2026-05-25",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "CD35D5CF4C939CA6": {
+    "tipo": "V",
+    "ativo": true,
+    "nome": "Jefferson",
+    "telefone": "88997719820",
+    "documento": "05400763332",
+    "email": "Jeffersonnexus4.js@gmail.com",
+    "dataAtivacao": "2026-05-21",
+    "ultimoPagamento": "2026-05-21",
+    "dataVencimento": "",
+    "senhasVitalicias": [
+      "PVBV53MG",
+      "X79342DB",
+      "G2JTBQ6G",
+      "U4F7KZNG",
+      "TPAUVMVX",
+      "5KPJRLWE"
+    ],
+    "senhaUsada": "PVBV53MG"
   }
 }
