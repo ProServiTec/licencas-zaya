@@ -207,18 +207,5 @@
       "5KPJRLWE"
     ],
     "senhaUsada": "PVBV53MG"
-  },
-  "76EEF0B2AD881F95": {
-    "tipo": "T",
-    "ativo": false,
-    "nome": "Tempero Caseiro",
-    "telefone": "(88) 99713-6477",
-    "documento": "016.265.943-17",
-    "email": "suporte\u002BTemperoCaseiro@proservitec.com.br",
-    "dataAtivacao": "2026-05-22",
-    "ultimoPagamento": "2026-05-22",
-    "dataVencimento": "2026-05-29",
-    "senhasVitalicias": null,
-    "senhaUsada": null
   }
 }
