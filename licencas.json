@@ -214,5 +214,18 @@
       "5KPJRLWE"
     ],
     "senhaUsada": "PVBV53MG"
+  },
+  "A1F96DF099EA9671": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "caixamovelpdv",
+    "telefone": "(48) 99118-9558",
+    "documento": "52.663.328/0001-91",
+    "email": "caixamovelpdv@gmail.com",
+    "dataAtivacao": "2026-05-30",
+    "ultimoPagamento": "2026-05-30",
+    "dataVencimento": "2026-06-06",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
