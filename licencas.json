@@ -52,17 +52,24 @@
     "senhaUsada": null
   },
   "AC1F1315E051B981": {
-    "tipo": "T",
-    "ativo": false,
-    "nome": "testeHeitor",
-    "telefone": "(88) 99616-1225",
-    "documento": "070.060.373-52",
-    "email": "limaheitor508@gmail.com",
-    "dataAtivacao": "2026-03-09",
-    "ultimoPagamento": "2026-03-09",
-    "dataVencimento": "2026-03-16",
-    "senhasVitalicias": null,
-    "senhaUsada": null
+    "tipo": "V",
+    "ativo": true,
+    "nome": "Tempeiro Caseiro",
+    "telefone": "(88) 8847-7690",
+    "documento": "47.841.933/0001-75",
+    "email": "suporte\u002Btempeiro@proservitec.com.br",
+    "dataAtivacao": "2026-04-24",
+    "ultimoPagamento": "2026-05-25",
+    "dataVencimento": "",
+    "senhasVitalicias": [
+      "4G3H6HUS",
+      "FZQBG2PJ",
+      "VQU7U5V8",
+      "T6KDS2LL",
+      "BPEZB2N4",
+      "3LCGE8FX"
+    ],
+    "senhaUsada": "T6KDS2LL"
   },
   "CA4EA98ED7670299": {
     "tipo": "T",
