@@ -240,5 +240,18 @@
     "dataVencimento": "2026-06-17",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "558177F7635B67D3": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Alemao Bar e Bistro",
+    "telefone": "(11) 46820-1949",
+    "documento": "27.138.139/0001-52",
+    "email": "alemaobarebistro@gmail.com",
+    "dataAtivacao": "2026-06-10",
+    "ultimoPagamento": "2026-06-10",
+    "dataVencimento": "2026-06-17",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
