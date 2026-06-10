@@ -227,5 +227,18 @@
     "dataVencimento": "2026-06-06",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "479E57E576082B36": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Angelica",
+    "telefone": "(11) 91076-7443",
+    "documento": "379.283.268-25",
+    "email": "angelica19gs@gmail.com",
+    "dataAtivacao": "2026-06-10",
+    "ultimoPagamento": "2026-06-10",
+    "dataVencimento": "2026-06-17",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
