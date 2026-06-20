@@ -253,5 +253,18 @@
     "dataVencimento": "2026-06-17",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "DC5086B2AAA4339C": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Somos Aparece",
+    "telefone": "(11) 2204-8763",
+    "documento": "17.193.585/0001-06",
+    "email": "somosaparece@gmail.com",
+    "dataAtivacao": "2026-06-20",
+    "ultimoPagamento": "2026-06-20",
+    "dataVencimento": "2026-06-27",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
