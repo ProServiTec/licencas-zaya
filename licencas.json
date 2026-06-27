@@ -241,7 +241,7 @@
     "senhasVitalicias": null,
     "senhaUsada": null
   },
-  "558177F7635B67D3": {
+  "DC5086B2AAA4339C": {
     "tipo": "M",
     "ativo": true,
     "nome": "Alemao Bar e Bistro",
@@ -251,19 +251,6 @@
     "dataAtivacao": "2026-06-20",
     "ultimoPagamento": "2026-06-20 12:42:00",
     "dataVencimento": "2026-07-20",
-    "senhasVitalicias": null,
-    "senhaUsada": null
-  },
-  "DC5086B2AAA4339C": {
-    "tipo": "T",
-    "ativo": false,
-    "nome": "Somos Aparece",
-    "telefone": "(11) 2204-8763",
-    "documento": "17.193.585/0001-06",
-    "email": "somosaparece@gmail.com",
-    "dataAtivacao": "2026-06-20",
-    "ultimoPagamento": "2026-06-20",
-    "dataVencimento": "2026-06-27",
     "senhasVitalicias": null,
     "senhaUsada": null
   }
