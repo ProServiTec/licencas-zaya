@@ -253,5 +253,18 @@
     "dataVencimento": "2026-07-20",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "96AAD96FDF281960": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "tapov24974@adsprite.com",
+    "telefone": "(33) 33333-3333",
+    "documento": "33.333.333/3333-33",
+    "email": "tapov24974@adsprite.com",
+    "dataAtivacao": "2026-07-01",
+    "ultimoPagamento": "2026-07-01",
+    "dataVencimento": "2026-07-08",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
