@@ -279,5 +279,18 @@
     "dataVencimento": "2026-08-09",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "0A344B857517D9C2": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "A\u00E7ai Mania",
+    "telefone": "(88) 99216-6620",
+    "documento": "058.021.923-21",
+    "email": "suporte\u002Bacaimania@proservitec.com.br",
+    "dataAtivacao": "2026-08-05",
+    "ultimoPagamento": "2026-08-05",
+    "dataVencimento": "2026-08-12",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
