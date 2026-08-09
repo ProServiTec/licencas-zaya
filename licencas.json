@@ -292,5 +292,18 @@
     "dataVencimento": "2026-08-12",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "B001C223A0E0F8D1": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "Balneario",
+    "telefone": "(88) 99761-1424",
+    "documento": "037.638.163-99",
+    "email": "suporte\u002Bbalneario@gmail.com",
+    "dataAtivacao": "2026-08-09",
+    "ultimoPagamento": "2026-08-09",
+    "dataVencimento": "2026-08-16",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
