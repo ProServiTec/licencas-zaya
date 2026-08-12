@@ -305,5 +305,18 @@
     "dataVencimento": "2026-08-16",
     "senhasVitalicias": null,
     "senhaUsada": null
+  },
+  "5F16F1A4EB919087": {
+    "tipo": "T",
+    "ativo": true,
+    "nome": "ALEX",
+    "telefone": "(88) 99806-0430",
+    "documento": "047.403.633-21",
+    "email": "suporte\u002Balex@proservitec.com.br",
+    "dataAtivacao": "2026-08-12",
+    "ultimoPagamento": "2026-08-12",
+    "dataVencimento": "2026-08-19",
+    "senhasVitalicias": null,
+    "senhaUsada": null
   }
 }
