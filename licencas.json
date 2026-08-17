@@ -243,14 +243,14 @@
   },
   "DC5086B2AAA4339C": {
     "tipo": "M",
-    "ativo": false,
+    "ativo": true,
     "nome": "Alemao Bar e Bistro",
     "telefone": "(11) 46820-1949",
     "documento": "27.138.139/0001-52",
     "email": "alemaobarebistro@gmail.com",
-    "dataAtivacao": "2026-07-17",
-    "ultimoPagamento": "2026-07-17 11:58:33",
-    "dataVencimento": "2026-08-16",
+    "dataAtivacao": "2026-08-17",
+    "ultimoPagamento": "2026-08-17 10:16:14",
+    "dataVencimento": "2026-09-16",
     "senhasVitalicias": null,
     "senhaUsada": null
   },
