@@ -162,7 +162,15 @@
     "email": "",
     "dataAtivacao": "2026-05-21",
     "ultimoPagamento": "2026-05-21",
-    "dataVencimento": ""
+    "dataVencimento": "",
+    "senhasVitalicias": [
+      "5UX28PJ8",
+      "LSY3HEE7",
+      "WTF5G55J",
+      "R47UAXUD",
+      "RJBGCDKT",
+      "KXK2RZH5"
+    ]
   },
   "A1F96DF099EA9671": {
     "tipo": "T",
